@@ -90,8 +90,7 @@
     "merge-class-names": "^1.1.1",
     "merge-refs": "^1.0.0",
     "pdfjs-dist": "https://github.com/samuelhalff/pdfjs-dist.git",
-    "prop-types": "^15.6.2",
-    "worker-loader": "^3"
+    "prop-types": "^15.6.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.0",
@@ -108,8 +107,7 @@
     "jest": "^26.6.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
-    "rimraf": "^3.0.0",
-    "webpack": "^5"
+    "rimraf": "^3.0.0"
   },
   "peerDependencies": {
     "react": "^16.3.0 || ^17.0.0-0",
