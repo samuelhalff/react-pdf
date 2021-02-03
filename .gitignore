@@ -4,6 +4,7 @@
 .vscode
 .github
 **/.yarn/*
+yarn.lock
 !**/.yarn/releases
 !**/.yarn/plugins
 coverage
