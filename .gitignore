@@ -2,6 +2,7 @@
 .cache
 .idea
 .vscode
+.github
 **/.yarn/*
 !**/.yarn/releases
 !**/.yarn/plugins
